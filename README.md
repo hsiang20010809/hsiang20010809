@@ -20,7 +20,7 @@ Hi, I'm Hsiang, you can call me Michael. I am studying for a master's degree at 
 |     2| Python    |
 |     3| SQL       |
 
-</details>
+</details open>
 
 ---
 >"What separates the winners from the losers is how a person reacts to each new twist of fate."
