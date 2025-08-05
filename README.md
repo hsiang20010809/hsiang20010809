@@ -17,8 +17,8 @@ Hi, I'm Hsiang, you can call me Michael. I am studying for a master's degree at 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Java      |
-|     3| SQL       |
+|     2| C/C++     |
+|     3| Java      |
 
 </details>
 
